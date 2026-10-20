@@ -1,0 +1,333 @@
+Data,Descrição,Categoria,Tipo,Quantia
+2025-12-20,Valor de Salário,Salário,Despesa,160.18
+2026-08-11,Valor de Salário,Salário,Despesa,125.54
+2026-05-01,Salário,Salário,Receita,3085.0
+2026-05-17,Valor de Salário,Salário,Despesa,100.05
+2026-08-26,Valor de Compras de mercado,Compras de mercado,Despesa,105.23
+2026-04-28,Valor de Salário,Salário,Despesa,21.64
+2026-01-30,Valor de Contas,Contas,Despesa,156.54
+2026-05-04,Valor de Salário,Salário,Despesa,71.16
+2026-01-28,Valor de Salário,Salário,Despesa,141.69
+2026-05-07,Valor de Entretenimento,Entretenimento,Despesa,32.51
+2026-06-08,Valor de Aluguel,Aluguel,Despesa,119.71
+2025-10-23,Valor de Entretenimento,Entretenimento,Despesa,89.23
+2025-12-20,Valor de Transporte,Transporte,Despesa,131.74
+2026-04-19,Valor de Transporte,Transporte,Despesa,78.01
+2026-06-04,Valor de Contas,Contas,Despesa,164.72
+2026-04-09,Valor de Contas,Contas,Despesa,158.78
+2026-05-04,Valor de Contas,Contas,Despesa,103.57
+2026-04-25,Valor de Contas,Contas,Despesa,32.47
+2025-10-27,Valor de Entretenimento,Entretenimento,Despesa,92.85
+2026-02-18,Valor de Entretenimento,Entretenimento,Despesa,125.96
+2026-08-01,Valor de Transporte,Transporte,Despesa,97.28
+2026-02-17,Valor de Compras de mercado,Compras de mercado,Despesa,112.62
+2026-02-11,Valor de Aluguel,Aluguel,Despesa,21.14
+2026-02-07,Valor de Salário,Salário,Despesa,93.85
+2026-02-12,Valor de Aluguel,Aluguel,Despesa,79.27
+2025-11-11,Valor de Entretenimento,Entretenimento,Despesa,194.48
+2026-09-25,Valor de Compras de mercado,Compras de mercado,Despesa,26.28
+2025-11-01,Salário,Salário,Receita,2990.0
+2026-09-14,Valor de Transporte,Transporte,Despesa,197.39
+2026-07-19,Valor de Aluguel,Aluguel,Despesa,128.63
+2026-03-29,Valor de Compras de mercado,Compras de mercado,Despesa,170.89
+2026-08-03,Valor de Transporte,Transporte,Despesa,193.66
+2026-07-26,Valor de Entretenimento,Entretenimento,Despesa,9.31
+2026-02-10,Valor de Compras de mercado,Compras de mercado,Despesa,85.19
+2026-10-07,Valor de Salário,Salário,Despesa,99.74
+2026-02-24,Valor de Salário,Salário,Despesa,128.51
+2026-02-13,Valor de Contas,Contas,Despesa,31.1
+2026-05-23,Valor de Compras de mercado,Compras de mercado,Despesa,101.38
+2026-01-29,Valor de Entretenimento,Entretenimento,Despesa,50.48
+2026-05-03,Valor de Aluguel,Aluguel,Despesa,180.0
+2026-01-31,Valor de Transporte,Transporte,Despesa,116.44
+2026-10-17,Valor de Aluguel,Aluguel,Despesa,34.83
+2026-06-09,Valor de Salário,Salário,Despesa,28.5
+2026-04-16,Valor de Transporte,Transporte,Despesa,182.81
+2026-09-04,Valor de Contas,Contas,Despesa,177.32
+2026-08-03,Valor de Contas,Contas,Despesa,160.38
+2025-11-01,Valor de Aluguel,Aluguel,Despesa,179.49
+2025-11-26,Valor de Compras de mercado,Compras de mercado,Despesa,57.02
+2026-01-29,Valor de Entretenimento,Entretenimento,Despesa,77.28
+2026-10-19,Valor de Contas,Contas,Despesa,50.23
+2026-01-30,Valor de Salário,Salário,Despesa,142.49
+2025-11-29,Valor de Transporte,Transporte,Despesa,20.77
+2025-12-25,Valor de Transporte,Transporte,Despesa,30.89
+2026-07-31,Valor de Transporte,Transporte,Despesa,146.26
+2026-10-09,Valor de Aluguel,Aluguel,Despesa,124.02
+2026-06-28,Valor de Transporte,Transporte,Despesa,50.18
+2026-10-15,Valor de Compras de mercado,Compras de mercado,Despesa,159.78
+2026-01-24,Valor de Transporte,Transporte,Despesa,69.09
+2026-08-20,Valor de Contas,Contas,Despesa,47.75
+2026-08-12,Valor de Compras de mercado,Compras de mercado,Despesa,22.13
+2026-06-07,Valor de Compras de mercado,Compras de mercado,Despesa,181.16
+2026-10-18,Valor de Entretenimento,Entretenimento,Despesa,23.66
+2026-07-23,Valor de Transporte,Transporte,Despesa,18.13
+2026-03-07,Valor de Salário,Salário,Despesa,51.04
+2026-01-16,Valor de Aluguel,Aluguel,Despesa,87.58
+2026-01-05,Valor de Aluguel,Aluguel,Despesa,55.87
+2026-05-12,Valor de Aluguel,Aluguel,Despesa,165.9
+2026-09-09,Valor de Entretenimento,Entretenimento,Despesa,11.67
+2026-04-12,Valor de Entretenimento,Entretenimento,Despesa,110.27
+2026-04-26,Valor de Compras de mercado,Compras de mercado,Despesa,75.67
+2026-04-11,Valor de Salário,Salário,Despesa,109.61
+2025-11-04,Valor de Transporte,Transporte,Despesa,123.37
+2026-07-12,Valor de Entretenimento,Entretenimento,Despesa,57.07
+2026-02-23,Valor de Compras de mercado,Compras de mercado,Despesa,100.96
+2026-10-12,Valor de Entretenimento,Entretenimento,Despesa,40.99
+2025-12-14,Freelance,Diversos,Receita,467.74
+2025-10-30,Valor de Salário,Salário,Despesa,81.26
+2026-07-06,Valor de Aluguel,Aluguel,Despesa,173.11
+2025-11-09,Valor de Compras de mercado,Compras de mercado,Despesa,183.42
+2025-10-21,Valor de Aluguel,Aluguel,Despesa,35.42
+2026-06-27,Valor de Aluguel,Aluguel,Despesa,160.61
+2026-06-05,Valor de Aluguel,Aluguel,Despesa,25.1
+2025-12-22,Valor de Aluguel,Aluguel,Despesa,165.41
+2026-06-29,Valor de Entretenimento,Entretenimento,Despesa,28.47
+2026-08-28,Valor de Transporte,Transporte,Despesa,87.24
+2026-05-04,Valor de Entretenimento,Entretenimento,Despesa,39.82
+2026-01-01,Salário,Salário,Receita,2885.0
+2026-04-24,Valor de Aluguel,Aluguel,Despesa,98.76
+2026-02-10,Valor de Entretenimento,Entretenimento,Despesa,138.52
+2025-12-07,Valor de Salário,Salário,Despesa,188.33
+2026-09-09,Valor de Salário,Salário,Despesa,45.14
+2026-05-23,Valor de Aluguel,Aluguel,Despesa,83.85
+2026-07-01,Valor de Compras de mercado,Compras de mercado,Despesa,106.06
+2026-07-10,Valor de Transporte,Transporte,Despesa,19.85
+2026-07-01,Salário,Salário,Receita,3058.0
+2025-12-06,Valor de Contas,Contas,Despesa,171.98
+2026-02-14,Valor de Compras de mercado,Compras de mercado,Despesa,191.04
+2026-01-10,Valor de Entretenimento,Entretenimento,Despesa,46.84
+2026-03-01,Valor de Entretenimento,Entretenimento,Despesa,42.5
+2026-03-14,Valor de Compras de mercado,Compras de mercado,Despesa,115.07
+2026-10-01,Valor de Entretenimento,Entretenimento,Despesa,173.35
+2025-11-10,Valor de Salário,Salário,Despesa,68.41
+2026-07-26,Valor de Salário,Salário,Despesa,77.51
+2026-06-22,Valor de Salário,Salário,Despesa,22.27
+2026-01-26,Valor de Entretenimento,Entretenimento,Despesa,73.43
+2026-04-15,Valor de Contas,Contas,Despesa,72.41
+2026-03-25,Valor de Transporte,Transporte,Despesa,67.53
+2025-12-07,Valor de Compras de mercado,Compras de mercado,Despesa,5.99
+2026-02-22,Valor de Transporte,Transporte,Despesa,63.1
+2026-06-01,Valor de Aluguel,Aluguel,Despesa,126.55
+2026-04-09,Valor de Salário,Salário,Despesa,151.72
+2026-03-16,Valor de Contas,Contas,Despesa,197.37
+2025-10-24,Valor de Transporte,Transporte,Despesa,194.88
+2026-06-22,Valor de Salário,Salário,Despesa,98.58
+2026-04-21,Valor de Entretenimento,Entretenimento,Despesa,78.96
+2025-12-06,Valor de Contas,Contas,Despesa,141.57
+2026-08-29,Valor de Entretenimento,Entretenimento,Despesa,147.96
+2026-07-03,Valor de Contas,Contas,Despesa,48.77
+2026-04-02,Valor de Contas,Contas,Despesa,134.71
+2026-03-24,Valor de Compras de mercado,Compras de mercado,Despesa,124.07
+2025-12-28,Valor de Aluguel,Aluguel,Despesa,183.47
+2026-03-05,Valor de Contas,Contas,Despesa,184.57
+2026-08-11,Valor de Transporte,Transporte,Despesa,197.4
+2026-10-13,Valor de Transporte,Transporte,Despesa,87.78
+2026-02-05,Valor de Compras de mercado,Compras de mercado,Despesa,107.0
+2025-12-02,Valor de Transporte,Transporte,Despesa,188.4
+2026-06-23,Valor de Entretenimento,Entretenimento,Despesa,74.15
+2026-06-28,Valor de Salário,Salário,Despesa,124.62
+2026-02-11,Valor de Compras de mercado,Compras de mercado,Despesa,156.63
+2026-04-30,Valor de Salário,Salário,Despesa,42.18
+2026-09-29,Valor de Compras de mercado,Compras de mercado,Despesa,121.31
+2025-11-11,Valor de Contas,Contas,Despesa,153.35
+2026-06-06,Valor de Compras de mercado,Compras de mercado,Despesa,41.1
+2025-12-08,Valor de Compras de mercado,Compras de mercado,Despesa,8.52
+2026-06-01,Salário,Salário,Receita,3136.0
+2026-04-21,Valor de Entretenimento,Entretenimento,Despesa,70.36
+2026-05-21,Valor de Entretenimento,Entretenimento,Despesa,132.03
+2026-02-11,Valor de Salário,Salário,Despesa,173.88
+2026-08-31,Valor de Transporte,Transporte,Despesa,83.98
+2026-01-15,Valor de Aluguel,Aluguel,Despesa,127.64
+2026-10-01,Valor de Aluguel,Aluguel,Despesa,98.44
+2026-07-20,Valor de Salário,Salário,Despesa,8.59
+2025-10-28,Valor de Aluguel,Aluguel,Despesa,24.05
+2026-08-18,Valor de Contas,Contas,Despesa,179.49
+2026-02-05,Valor de Contas,Contas,Despesa,140.61
+2026-09-03,Valor de Entretenimento,Entretenimento,Despesa,6.76
+2026-08-18,Valor de Transporte,Transporte,Despesa,121.51
+2026-08-11,Valor de Transporte,Transporte,Despesa,72.47
+2025-11-26,Valor de Aluguel,Aluguel,Despesa,103.02
+2025-11-30,Valor de Compras de mercado,Compras de mercado,Despesa,34.39
+2025-12-17,Valor de Salário,Salário,Despesa,74.94
+2025-11-30,Valor de Contas,Contas,Despesa,41.37
+2026-09-24,Valor de Compras de mercado,Compras de mercado,Despesa,173.96
+2025-12-13,Valor de Contas,Contas,Despesa,116.54
+2026-08-19,Valor de Contas,Contas,Despesa,146.34
+2026-07-01,Valor de Transporte,Transporte,Despesa,199.01
+2025-12-01,Salário,Salário,Receita,2947.0
+2025-12-02,Valor de Aluguel,Aluguel,Despesa,168.35
+2026-10-06,Valor de Contas,Contas,Despesa,79.11
+2025-12-22,Valor de Salário,Salário,Despesa,109.73
+2026-04-08,Valor de Contas,Contas,Despesa,70.31
+2026-03-01,Valor de Contas,Contas,Despesa,165.25
+2025-12-10,Valor de Salário,Salário,Despesa,56.71
+2025-12-26,Valor de Contas,Contas,Despesa,90.6
+2026-05-04,Valor de Compras de mercado,Compras de mercado,Despesa,48.28
+2026-04-20,Valor de Salário,Salário,Despesa,51.0
+2026-10-04,Valor de Salário,Salário,Despesa,150.64
+2026-10-15,Valor de Aluguel,Aluguel,Despesa,39.08
+2026-08-15,Valor de Aluguel,Aluguel,Despesa,165.18
+2026-07-21,Valor de Salário,Salário,Despesa,151.97
+2026-04-19,Valor de Compras de mercado,Compras de mercado,Despesa,87.71
+2025-12-11,Valor de Salário,Salário,Despesa,181.69
+2026-02-13,Valor de Entretenimento,Entretenimento,Despesa,15.99
+2026-07-31,Valor de Contas,Contas,Despesa,84.82
+2025-12-07,Valor de Salário,Salário,Despesa,6.79
+2025-11-14,Valor de Entretenimento,Entretenimento,Despesa,104.17
+2026-02-06,Valor de Entretenimento,Entretenimento,Despesa,140.9
+2026-04-16,Valor de Aluguel,Aluguel,Despesa,189.72
+2025-12-30,Valor de Entretenimento,Entretenimento,Despesa,124.29
+2025-12-16,Valor de Compras de mercado,Compras de mercado,Despesa,66.8
+2026-03-13,Valor de Contas,Contas,Despesa,131.52
+2025-11-19,Valor de Transporte,Transporte,Despesa,74.48
+2026-08-16,Valor de Salário,Salário,Despesa,125.24
+2026-03-09,Valor de Transporte,Transporte,Despesa,25.9
+2026-10-05,Valor de Contas,Contas,Despesa,6.47
+2026-02-14,Valor de Salário,Salário,Despesa,44.98
+2026-10-17,Valor de Aluguel,Aluguel,Despesa,93.09
+2026-03-22,Valor de Salário,Salário,Despesa,135.39
+2026-08-30,Valor de Transporte,Transporte,Despesa,77.71
+2026-06-07,Valor de Transporte,Transporte,Despesa,48.14
+2026-07-31,Valor de Aluguel,Aluguel,Despesa,46.56
+2025-12-19,Valor de Salário,Salário,Despesa,75.1
+2025-12-21,Valor de Salário,Salário,Despesa,68.99
+2026-08-29,Valor de Entretenimento,Entretenimento,Despesa,95.83
+2026-10-01,Salário,Salário,Receita,2909.0
+2026-06-21,Valor de Entretenimento,Entretenimento,Despesa,108.14
+2026-01-24,Valor de Entretenimento,Entretenimento,Despesa,22.88
+2026-05-01,Valor de Contas,Contas,Despesa,93.39
+2026-06-23,Valor de Salário,Salário,Despesa,5.65
+2026-02-14,Valor de Entretenimento,Entretenimento,Despesa,152.63
+2026-09-20,Valor de Compras de mercado,Compras de mercado,Despesa,167.02
+2026-08-24,Valor de Aluguel,Aluguel,Despesa,149.83
+2026-07-15,Valor de Aluguel,Aluguel,Despesa,30.13
+2026-02-16,Valor de Aluguel,Aluguel,Despesa,102.14
+2026-07-27,Freelance,Diversos,Receita,121.52
+2026-04-20,Valor de Aluguel,Aluguel,Despesa,168.59
+2026-03-23,Valor de Salário,Salário,Despesa,143.64
+2026-10-16,Valor de Contas,Contas,Despesa,157.2
+2026-09-01,Salário,Salário,Receita,3030.0
+2025-12-17,Valor de Salário,Salário,Despesa,23.95
+2026-04-27,Valor de Entretenimento,Entretenimento,Despesa,105.46
+2026-09-16,Valor de Contas,Contas,Despesa,100.33
+2026-05-19,Valor de Compras de mercado,Compras de mercado,Despesa,32.17
+2026-05-22,Freelance,Diversos,Receita,111.6
+2026-06-25,Freelance,Diversos,Receita,494.48
+2026-09-30,Freelance,Diversos,Receita,314.18
+2026-05-01,Valor de Aluguel,Aluguel,Despesa,109.22
+2026-08-16,Valor de Contas,Contas,Despesa,11.16
+2026-02-01,Valor de Transporte,Transporte,Despesa,60.71
+2026-07-26,Valor de Entretenimento,Entretenimento,Despesa,79.8
+2026-03-04,Valor de Compras de mercado,Compras de mercado,Despesa,23.0
+2026-02-01,Valor de Transporte,Transporte,Despesa,192.62
+2026-09-18,Valor de Entretenimento,Entretenimento,Despesa,91.53
+2026-01-19,Valor de Entretenimento,Entretenimento,Despesa,149.28
+2026-07-04,Valor de Salário,Salário,Despesa,172.72
+2025-12-20,Valor de Transporte,Transporte,Despesa,177.89
+2026-01-30,Valor de Aluguel,Aluguel,Despesa,181.74
+2026-05-18,Valor de Contas,Contas,Despesa,104.93
+2026-03-21,Valor de Contas,Contas,Despesa,8.56
+2026-04-10,Valor de Transporte,Transporte,Despesa,116.13
+2026-03-27,Valor de Aluguel,Aluguel,Despesa,67.86
+2026-06-23,Valor de Transporte,Transporte,Despesa,148.83
+2026-05-25,Valor de Entretenimento,Entretenimento,Despesa,122.61
+2026-04-01,Salário,Salário,Receita,2859.0
+2026-09-18,Valor de Entretenimento,Entretenimento,Despesa,23.31
+2026-03-09,Valor de Aluguel,Aluguel,Despesa,74.06
+2026-01-16,Valor de Contas,Contas,Despesa,198.15
+2026-02-23,Valor de Transporte,Transporte,Despesa,17.92
+2025-11-17,Valor de Entretenimento,Entretenimento,Despesa,174.93
+2025-10-31,Valor de Salário,Salário,Despesa,111.61
+2025-11-02,Valor de Transporte,Transporte,Despesa,13.82
+2026-02-01,Salário,Salário,Receita,3116.0
+2026-06-06,Valor de Contas,Contas,Despesa,147.78
+2026-07-13,Valor de Entretenimento,Entretenimento,Despesa,168.22
+2025-12-20,Valor de Compras de mercado,Compras de mercado,Despesa,127.44
+2026-08-30,Valor de Aluguel,Aluguel,Despesa,40.29
+2025-12-10,Valor de Transporte,Transporte,Despesa,104.22
+2026-09-26,Valor de Compras de mercado,Compras de mercado,Despesa,66.85
+2026-02-07,Valor de Transporte,Transporte,Despesa,70.45
+2025-12-03,Valor de Salário,Salário,Despesa,140.68
+2026-09-16,Valor de Transporte,Transporte,Despesa,108.79
+2025-11-12,Valor de Compras de mercado,Compras de mercado,Despesa,143.58
+2026-09-07,Valor de Transporte,Transporte,Despesa,78.97
+2026-09-20,Valor de Compras de mercado,Compras de mercado,Despesa,139.46
+2026-01-06,Valor de Entretenimento,Entretenimento,Despesa,36.77
+2026-05-23,Valor de Aluguel,Aluguel,Despesa,183.31
+2026-01-08,Valor de Entretenimento,Entretenimento,Despesa,111.4
+2026-10-16,Valor de Aluguel,Aluguel,Despesa,147.73
+2026-03-29,Valor de Contas,Contas,Despesa,73.03
+2026-09-06,Valor de Entretenimento,Entretenimento,Despesa,53.5
+2025-10-22,Valor de Transporte,Transporte,Despesa,188.02
+2025-12-16,Valor de Entretenimento,Entretenimento,Despesa,42.23
+2026-08-03,Valor de Transporte,Transporte,Despesa,11.34
+2026-07-29,Valor de Aluguel,Aluguel,Despesa,155.7
+2026-08-01,Salário,Salário,Receita,3080.0
+2026-05-02,Valor de Transporte,Transporte,Despesa,40.48
+2026-03-31,Valor de Contas,Contas,Despesa,17.97
+2026-09-20,Valor de Compras de mercado,Compras de mercado,Despesa,10.93
+2026-05-07,Valor de Salário,Salário,Despesa,62.16
+2026-01-05,Freelance,Diversos,Receita,470.05
+2026-07-16,Valor de Transporte,Transporte,Despesa,113.46
+2026-01-25,Valor de Entretenimento,Entretenimento,Despesa,101.41
+2026-07-13,Valor de Contas,Contas,Despesa,36.28
+2026-03-22,Valor de Compras de mercado,Compras de mercado,Despesa,145.1
+2026-08-10,Valor de Entretenimento,Entretenimento,Despesa,152.63
+2026-03-12,Valor de Salário,Salário,Despesa,28.35
+2026-04-18,Valor de Transporte,Transporte,Despesa,115.2
+2026-01-21,Valor de Entretenimento,Entretenimento,Despesa,179.63
+2026-04-06,Valor de Compras de mercado,Compras de mercado,Despesa,50.28
+2026-08-22,Valor de Aluguel,Aluguel,Despesa,9.07
+2026-03-01,Salário,Salário,Receita,2994.0
+2026-05-20,Valor de Entretenimento,Entretenimento,Despesa,8.59
+2026-08-05,Valor de Transporte,Transporte,Despesa,17.52
+2026-09-26,Valor de Aluguel,Aluguel,Despesa,153.65
+2026-02-07,Valor de Aluguel,Aluguel,Despesa,41.68
+2026-04-01,Valor de Compras de mercado,Compras de mercado,Despesa,151.35
+2026-08-23,Valor de Salário,Salário,Despesa,10.98
+2026-06-28,Valor de Compras de mercado,Compras de mercado,Despesa,149.95
+2025-11-23,Valor de Compras de mercado,Compras de mercado,Despesa,28.37
+2026-05-20,Valor de Aluguel,Aluguel,Despesa,108.28
+2025-12-22,Valor de Entretenimento,Entretenimento,Despesa,106.84
+2025-11-09,Valor de Aluguel,Aluguel,Despesa,74.9
+2026-02-11,Valor de Entretenimento,Entretenimento,Despesa,37.14
+2025-11-24,Valor de Compras de mercado,Compras de mercado,Despesa,83.75
+2026-01-07,Valor de Contas,Contas,Despesa,161.19
+2025-12-07,Valor de Salário,Salário,Despesa,112.0
+2026-08-22,Valor de Contas,Contas,Despesa,49.55
+2025-10-22,Freelance,Diversos,Receita,496.5
+2025-12-13,Valor de Compras de mercado,Compras de mercado,Despesa,13.5
+2026-10-14,Valor de Entretenimento,Entretenimento,Despesa,128.46
+2025-11-29,Valor de Contas,Contas,Despesa,52.22
+2026-02-21,Valor de Contas,Contas,Despesa,22.75
+2026-02-14,Valor de Contas,Contas,Despesa,53.23
+2026-09-28,Valor de Compras de mercado,Compras de mercado,Despesa,76.46
+2026-06-18,Valor de Compras de mercado,Compras de mercado,Despesa,148.88
+2026-08-04,Valor de Compras de mercado,Compras de mercado,Despesa,123.42
+2026-06-06,Valor de Salário,Salário,Despesa,191.84
+2025-10-22,Valor de Salário,Salário,Despesa,16.0
+2025-11-16,Valor de Contas,Contas,Despesa,140.48
+2025-10-27,Freelance,Diversos,Receita,473.99
+2026-03-22,Valor de Salário,Salário,Despesa,55.29
+2026-01-24,Valor de Contas,Contas,Despesa,46.48
+2026-07-14,Valor de Salário,Salário,Despesa,41.9
+2026-06-12,Valor de Contas,Contas,Despesa,67.22
+2025-12-28,Valor de Aluguel,Aluguel,Despesa,51.76
+2025-12-14,Valor de Salário,Salário,Despesa,77.18
+2026-04-08,Valor de Salário,Salário,Despesa,69.9
+2026-07-28,Valor de Contas,Contas,Despesa,93.02
+2026-07-29,Valor de Transporte,Transporte,Despesa,132.63
+2026-08-18,Valor de Salário,Salário,Despesa,93.2
+2026-04-29,Valor de Entretenimento,Entretenimento,Despesa,82.48
+2026-08-23,Valor de Contas,Contas,Despesa,48.01
+2026-07-11,Valor de Entretenimento,Entretenimento,Despesa,181.77
+2026-01-03,Valor de Aluguel,Aluguel,Despesa,153.86
+2026-03-03,Valor de Transporte,Transporte,Despesa,45.24
+2026-03-22,Valor de Contas,Contas,Despesa,116.46
+2026-03-08,Valor de Aluguel,Aluguel,Despesa,12.15
+2026-05-29,Valor de Salário,Salário,Despesa,31.33
+2026-07-30,Valor de Transporte,Transporte,Despesa,147.6
+2026-01-03,Valor de Entretenimento,Entretenimento,Despesa,97.33
+2026-07-07,Valor de Contas,Contas,Despesa,59.87
+2025-12-05,Valor de Compras de mercado,Compras de mercado,Despesa,23.16
