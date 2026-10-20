@@ -56,7 +56,7 @@ python data/create_data_sample.py
 streamlit run app.py
 ```
 
-Acesse em: (Adicionar link do Streamlit)
+Acesse em: https://rastreadordefinancas.streamlit.app/
 
 ---
 
